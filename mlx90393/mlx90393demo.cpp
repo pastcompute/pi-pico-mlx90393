@@ -1,8 +1,5 @@
-/**
- * Copyright (c) 2020 Raspberry Pi (Trading) Ltd.
- *
- * SPDX-License-Identifier: BSD-3-Clause
- */
+// Copyright 2022 Andrew McDonnell - updated to support the Raspberry Pi Pico SDK
+// SPDX-License-Identifier: MIT
 
 #include <stdio.h>
 #include "pico/stdlib.h"
